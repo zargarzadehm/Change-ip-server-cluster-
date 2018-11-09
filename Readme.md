@@ -1,4 +1,4 @@
-#Bash script change ip inside file config mysql & server Maxscale
+# Bash script change ip inside file config mysql & server Maxscale
 
 
 To change the IP servers in the cluster, we must change the server addresses in some configuration files.
